@@ -1,4 +1,5 @@
-# 718_FP
-Final Project for IST 718 (Winter 2021)
+# Time Series Modeling
 
-This is the repository for the IST 718 final project
+  * This repo was originall created to support the Final Project for IST 718 (Syracuse University, Winter 2021)
+
+  * The code is a good example of how to deal with time series data and make future predictions
